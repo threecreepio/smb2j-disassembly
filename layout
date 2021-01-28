@@ -1,0 +1,9 @@
+MEMORY
+{
+	CODE:  start =    $0, size = $FFDC, fill=yes, fillval=$00;
+}
+
+SEGMENTS
+{
+	CODE:       load = CODE,  type = ro;
+}
