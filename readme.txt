@@ -1,3 +1,9 @@
+This is a small change of Doppelgangers disassembly to make it work with CC65.
+Original asm6 is available here: https://www.romhacking.net/documents/653/
+
+
+Original readme:
+
 SMB2J DISASSEMBLY - A COMPREHENSIVE SUPER MARIO BROS. 2 JAPAN DISASSEMBLY
 by doppelganger (doppelheathen@gmail.com)
 
